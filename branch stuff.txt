@@ -1,5 +1,8 @@
 Branches stuff
 devplus
 
-this change takes the remote repo one step ahead of the local
+this change takes the remote repo one step ahead of the local #done
+
+demo for pull ( pull =  fetch + mergge)
+
 
